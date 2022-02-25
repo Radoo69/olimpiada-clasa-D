@@ -22,5 +22,3 @@
     <li>vectori de frecventa si caracteristici</li>
     <li>operatii pe biti</li>
 </ul>
-
-<img src="complexitate.png">
