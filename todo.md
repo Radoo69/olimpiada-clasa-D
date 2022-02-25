@@ -1,4 +1,4 @@
-#de facut:
+<h2>de facut:</h2>
 <ul>
     <li>indicatorul lui euler</li>
     <li>suma divizori cu factori primi</li>
@@ -11,7 +11,7 @@
     <li>programare dinamica</li>
  </ul>
 
-#de revizuit:
+<h2>de revizuit:</h2>
 <ul>
     <li>secvente de suma maxima (infoarenta 35)</li>
     <li>cautare binara (infoarena 18)</li>
@@ -22,3 +22,5 @@
     <li>vectori de frecventa si caracteristici</li>
     <li>operatii pe biti</li>
 </ul>
+
+<img src="complexitate.png">
